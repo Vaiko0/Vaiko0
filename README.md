@@ -72,11 +72,3 @@
 </div>
 
 ###
-
-<h1 align="left">Search Alternance</h1>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1vZGhkdGNwbmtna3RhdWpqc255ZmZsOTg3M3U1bzNyeXdpdThncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I1nwVpCaB4k36/giphy.gif"  />
-</div>
