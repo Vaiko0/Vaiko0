@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Corentin from Toulouse.<br><br>- 🔭 I’m working as IPI<br>- 📚 I'm currently learning HTML / CSS / JavaScript...</p>
+<p align="left">I'm Corentin from Toulouse.<br><br>- 🔭 I’m working at IPI<br>- 📚 I'm currently learning HTML / CSS / JavaScript...</p>
 
 ###
 
